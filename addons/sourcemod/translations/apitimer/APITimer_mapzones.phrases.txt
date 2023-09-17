@@ -1,0 +1,80 @@
+//**********************************************  Valid Colors	***********************************************
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+//*************************************************************************************************************
+
+"Phrases"
+{
+	"Create Mapzones"
+	{
+		"en"		"Create zones"
+		"fr"		"Créer une zone"
+	}
+	
+	"Mapzone type"
+	{
+		"en"		"Mapzone type"
+		"fr"		"Type de zone"
+	}
+	
+	"Mapzone type normal"
+	{
+		"en"		"Normal"
+		"fr"		"Normal"
+	}
+	
+	"Mapzone type bonus"
+	{
+		"en"		"Bonus"
+		"fr"		"Bonus"
+	}
+	
+	"Mapzone sub type"
+	{
+		"en"		"Mapzone sub type"
+		"fr"		"Sous type de zone"
+	}
+	
+	"Mapzone sub type start"
+	{
+		"en"		"Start"
+		"fr"		"Début"
+	}
+	
+	"Mapzone sub type level"
+	{
+		"en"		"Level"
+		"fr"		"Niveau"
+	}
+	
+	"Mapzone sub type end"
+	{
+		"en"		"End"
+		"fr"		"Fin"
+	}
+	
+	"Admin mapzone added"
+	{
+		"#format"	"{1:s}"
+		"en"		"[{GREEN}APITimer{NORMAL}] Map zone {BLUE}#{1}{NORMAL} {GREEN}added{NORMAL}."
+		"fr"		"[{GREEN}APITimer{NORMAL}] Zone de map {BLUE}#{1}{NORMAL} {GREEN}ajoutée{NORMAL}."
+	}
+	
+	"Admin mapzone removed"
+	{
+		"#format"	"{1:s}"
+		"en"		"[{GREEN}APITimer{NORMAL}] Map zone {BLUE}#{1}{NORMAL} {RED}removed{NORMAL}."
+		"fr"		"[{GREEN}APITimer{NORMAL}] Zone de map {BLUE}#{1}{NORMAL} {RED}supprimée{NORMAL}."
+	}
+	
+	"Mapzone added in database"
+	{
+		"en"		"[{GREEN}APITimer{NORMAL}] Map zone saved in database."
+		"fr"		"[{GREEN}APITimer{NORMAL}] Zone de map sauvegardée dans la base de données."
+	}
+	
+	"Mapzone not added in database"
+	{
+		"en"		"[{GREEN}APITimer{NORMAL}] Map zone could not be saved in database"
+		"fr"		"[{GREEN}APITimer{NORMAL}] Zone de map n'a pu être sauvegardée dans la base de données."
+	}
+}

@@ -1,0 +1,23 @@
+//**********************************************  Valid Colors	***********************************************
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}  *
+//*************************************************************************************************************
+
+"Phrases"
+{
+	"Command is in-game only"
+	{
+		"en"		"[{GREEN}APITimer{NORMAL}] Command is in-game only."
+		"fr"		"[{GREEN}APITimer{NORMAL}] Commande en jeu seulement."
+	}
+	
+	"APITimer Admin Menu"
+	{
+		"en"		"APITimer Admin Menu"
+	}
+	
+	"Mapzones"
+	{
+		"en"		"Map zones"
+		"fr"		"Zones de la carte"
+	}
+}
